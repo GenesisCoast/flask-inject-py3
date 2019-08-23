@@ -1,4 +1,4 @@
-Flask-Inject
+Flask-Inject-py3
 ===
 
 ```python
